@@ -1,3 +1,7 @@
+<div style="background-color: blue; padding: 25px;">
+  This is a custom block.
+</div>
+
 # EDM-Portfolio - Edilberto II M Geminiano 
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
 # About Me 
