@@ -1,6 +1,5 @@
-<div style="background-color: blue; padding: 25px;">
-  This is a custom block.
-</div>
+![Love](RANDOM/halata.png)
+
 
 # EDM-Portfolio - Edilberto II M Geminiano 
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
@@ -15,3 +14,4 @@ A short professional biography is a brief summary of your career accomplishments
 * Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL
 * Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
 
+</div>
