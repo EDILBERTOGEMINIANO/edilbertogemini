@@ -8,5 +8,5 @@ High School:Holy Angel University
 Elementary 
 # My Projects 
 . Welcome to my project this project shows the before and after parts 
-Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL 
+*Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL 
 • Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
