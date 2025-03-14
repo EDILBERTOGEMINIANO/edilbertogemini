@@ -15,5 +15,5 @@ Hello World, My name is Edilberto II. M. Geminiano from the Philippines. I am cu
  
 * Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20LAB%20TASK%201/readme.md)
 * Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20LAB%20ACTIVITY%20TASK%202/LAB2.md)
-
+* Midterm Lab Task 3: [Creating Pivot Tables and Charts](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20ACTIVITY%20NO.3%20/LAB%203.md)
 </div>
