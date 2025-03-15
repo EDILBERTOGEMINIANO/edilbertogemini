@@ -1,5 +1,5 @@
 ## WELCOME TO LAB ACTIVITY NO.3 
-For this activity,the user will show how to do a dashboard and pivot table from extracting data in **Excel**
+For this activity, the user will show how to do a dashboard and pivot table from extracting data in **Excel**
 
 ## Steps 
 1. Using the worksheet that you saved and transform the tables into what depend on the instructions given by the lab professor
@@ -30,3 +30,47 @@ For this activity,the user will show how to do a dashboard and pivot table from 
 <img src= "https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20ACTIVITY%20NO.3/EDM101/Dashboard.png"/>
 <img src= "https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20ACTIVITY%20NO.3/EDM101/Country%20Count.png"/>
   
+# Appendix 
+> For users who need a unhelpful guide in this activity, click the links **BELOW**
+
+[LAB1](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20LAB%20TASK%201/readme.md#appendix-frequently-asked-questions)
+[LAB2](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20LAB%20TASK%201/readme.md#appendix-frequently-asked-questions)
+
+1. **Remove duplicate in specific column using POWER QUERY**
+   - Select the columns you want to remove
+   - Remove duplicates by using the **Remove Duplicates** button
+   - Done
+
+2. **Using Pivot Table**
+   - Select your data
+   - Go to **Insert** tab, then choose Pivot Table
+   - Choose the data source
+   - Choose where to place your pivot table, either existing or new area you want to place
+   - Then Ok
+   - Edit your Pivot Table
+   - Done
+
+3. **Create a Slicer**
+   - Select your Pivot Table, then go to Insert tab
+   - Click the Slicer
+   - Position your slicer, you should keep it this will be used in the next guide.
+   - Done
+
+4. **Using Chart**
+   - Select your data from the pivot table or not 
+   - Insert a chart
+   - Adjust your created chart
+   - Format the chart
+   - Done
+
+5. **Creating a dashboard**
+   - Insert a text box
+   - Paste your charts and slicers
+   - Format your dashboard
+   - Done
+
+6. **Using Map Chart**
+   - Select your data
+   - Go to **Insert** tab, then select the map chart
+   - Customize your map chart
+   - Done 
