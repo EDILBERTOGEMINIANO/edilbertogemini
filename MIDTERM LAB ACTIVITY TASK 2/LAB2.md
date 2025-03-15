@@ -1,6 +1,6 @@
 # Welcome to LAB 2 #
 
-For today, the creator will show how the data is cleaned by using the power query 
+For today, the user will show how the data is cleaned by using the power query 
 ******
 
 # Before(For better view, click the picture)**
@@ -41,3 +41,23 @@ Sample:
 
 4. # Salary by Role Type and size
    <img src="https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20LAB%20ACTIVITY%20TASK%202/Salary%20by%20Role%20and%20Size%20(Sorted).png"/>
+
+# Appendix 
+> For users want to prefer to clean the data or query is not available in any versions, check the link below the mentioned cleaning tips that will be used manually:
+[LAB 1](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/tree/main/MIDTERM%20LAB%20TASK%201#appendix-frequently-asked-questions)
+
+1. **Duplicate the sheets**
+   - Right-Click the sheet you choose
+   - Select Move or Copy
+   - Done
+
+2. **Remove Other Categories from a specific column**
+   - Use the **ctrl** key to select what data you want to keep, then press **Ctrl + C**
+   - Create a new sheet
+   - Paste your selected columns by pressing **Ctrl + V**
+   - Done
+
+3. **Merge Queries manually**
+   - Sort both sheets
+   - Copy your data from the existring sheet, then paste
+   - Done 
