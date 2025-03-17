@@ -72,5 +72,5 @@ For this activity, the user will show how to do a dashboard and pivot table from
 6. **Using Map Chart**
    - Select your data
    - Go to **Insert** tab, then select the map chart
-   - Customize your map chart
+   - Customize your map chart, make sure include your country to verify the identity of the picture 
    - Done 
