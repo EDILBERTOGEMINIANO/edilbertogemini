@@ -19,7 +19,8 @@ Hello World, My name is Edilberto II. M. Geminiano from the Philippines. I am cu
 * Midterm Lab Task 3: [Creating Pivot Tables and Charts](https://github.com/EDILBERTOGEMINIANO/edilbertogemini/blob/main/MIDTERM%20ACTIVITY%20NO.3%20/LAB%203.md)
   
 **Final**
-* Final Task 1:
-* Final Task 2:
-* Final Task 3:
-* Final Task 3-1:
+* Final Task 1: [SQL BASICS](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%201%20/MULTI%20COMPANY%20DATABASE.md)
+* Final Task 2: [Transform ER into Relational tables](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main)
+* Final Task 3: [Table Manipulation](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203/ProductPrice.md)
+* Final Task 3-1: [Using SELECT](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203-1/online.md?plain=1)
+* Final Task 5: [Using SQL views Stored Procedures and Functions]()
