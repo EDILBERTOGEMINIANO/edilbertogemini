@@ -6,7 +6,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 # About Me 
 Hello World, My name is Edilberto II. M. Geminiano from the Philippines. I am currently studying at the City College of Angeles. 
                I am introvert and unpredictable person. This portfolio will show the side of Edil in the programming and 
-                         cleaning the database and  making the database into relational map 
+                         cleaning the database and  making the database into relational map and databases using MYSQL.
 # Education 
 * College: Bachelor of Science in Information Systems (CCA)
 * Senior High School: Angeles City Senior High School
@@ -20,7 +20,7 @@ Hello World, My name is Edilberto II. M. Geminiano from the Philippines. I am cu
   
 **Final**
 * Final Task 1: [SQL BASICS](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%201%20/MULTI%20COMPANY%20DATABASE.md)
-* Final Task 2: [Transform ER into Relational tables](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main)
+* Final Task 2: [Transform ER into Relational tables](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/LAB%20TASK%202/LAB%20TASK%20NO.2.md)
 * Final Task 3: [Table Manipulation](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203/ProductPrice.md)
 * Final Task 3-1: [Using SELECT](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203-1/online.md?plain=1)
-* Final Task 5: [Using SQL views Stored Procedures and Functions]()
+* Final Task 5: [Using SQL views Stored Procedures and Functions](https://github.com/EDILBERTOGEMINIANO/edilberto/tree/main/FINAL%20TASK%205)
